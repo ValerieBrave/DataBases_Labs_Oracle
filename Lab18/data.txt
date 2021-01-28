@@ -1,0 +1,10 @@
+1;frey;25-JAN-2000;
+2;fref;26-DEC-2000;
+3;freg;27-JAN-2000;
+4;freh;28-JAN-2000;
+5;frer;29-DEC-2000;
+6;freh;21-JAN-2000;
+7;fref;23-JAN-2000;
+8;frea;25-MAY-2000;
+9;fray;13-OCT-2000;
+10;frog;10-FEB-2000;
